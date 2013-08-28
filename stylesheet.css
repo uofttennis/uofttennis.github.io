@@ -1,0 +1,84 @@
+body {
+	background-color: white;
+}
+
+#topimg{
+	text-align: center;
+	
+    
+ 
+    margin-top: -1em;
+    
+  
+
+}
+
+#toppanel{
+	
+	text-align: center;
+	
+
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	text-align: left;
+	font-family: Arial, sans-serif;
+}
+#info{
+	text-align: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:2em;
+	width:55em;
+	background-color: white;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	
+}
+
+#bottompanel{
+	text-align: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:1em;
+	width:55em;
+
+	
+}
+
+#faceimg{
+	text-align: right;
+
+
+}
+
+table{
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+}
+
+
+
+
+
+.button{
+	padding:5px;
+	width: 4em;
+	font-size: 2em;
+	font-family: Times ,sans-serif;
+	border:3px solid black;
+	border-radius: 3em;
+	margin:5px;
+	display:inline-block;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	
+}
+
+.button:hover{
+	background-color:yellow;
+}
