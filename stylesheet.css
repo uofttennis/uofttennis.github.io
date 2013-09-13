@@ -28,11 +28,13 @@ p{
 	text-align: left;
 	font-family: Arial, sans-serif;
 }
-#info{
+
+.info{
 	text-align: center;
 	margin-left: auto;
 	margin-right:auto;
 	margin-top:2em;
+	margin-bottom: 1em;
 	width:55em;
 	background-color: white;
 	border-top: 2px solid black;
@@ -40,12 +42,41 @@ p{
 	
 }
 
+.execpic{
+	margin-top: 2em;
+	vertical-align:middle;
+	padding:5px;
+	border-radius: 1em;
+	border:3px solid black;
+	background-color: black;
+	width:19em;
+	height:15.7em;
+	vertical-align:text-top;
+	float:left;
+
+}
+
+.execinfo{
+	text-align: left;
+	margin-top: 2em;
+	margin-left: 21em;
+	padding: 5px;
+	width:20em;
+	height:18em;
+
+
+
+}
+
+
 #bottompanel{
+	position: relative;
 	text-align: center;
 	margin-left: auto;
 	margin-right:auto;
 	margin-top:1em;
 	width:55em;
+	padding: 5px;
 
 	
 }
@@ -54,14 +85,14 @@ p{
 	text-align: right;
 
 
+
 }
 
 table{
 	font-family: Arial, sans-serif;
 	font-size: 1em;
+	margin-bottom: 2em;
 }
-
-
 
 
 
