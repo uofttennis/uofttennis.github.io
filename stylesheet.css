@@ -9,6 +9,7 @@ body {
 	margin-bottom: auto;
 	padding-top: 1.5em;
 	padding-bottom: 3em;
+	font-family: "Century Gothic", Arial, sans-serif;
 }
 
 #topimg{
@@ -36,7 +37,7 @@ a{
 
 p{
 	text-align: left;
-	font-family: Arial, sans-serif;
+	font-family: "Century Gothic", Arial, sans-serif;
 }
 
 .info{
@@ -120,6 +121,7 @@ table{
 	border-top: 1px solid black;
 	background-color: #282828;
 	color:white;
+	font-family: "Century Gothic", Arial, sans-serif;
 }
 
 .button:hover{
